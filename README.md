@@ -1,4 +1,4 @@
-# Co-Reviewer: Are LLMs on the Same Page as Human Reviewers? An Agentic AI Framework for Evaluating Review Quality and Consensus
+# Co-Reviewer: Can AI Review Like a Human? An Agentic Framework for LLM–Human Alignment in Peer Review
 
 ## 📝 Overview
 Co-Reviewer is an AI-powered system that automates research paper reviews by analyzing PDFs and generating structured feedback.
